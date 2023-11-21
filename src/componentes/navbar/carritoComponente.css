@@ -1,0 +1,19 @@
+.carrito{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+span{
+    position: relative;
+    right: 14px;
+    font-size: 20px;
+    padding: 1px 7px;
+    border-radius: 10px;
+    background-color: rgb(237, 4, 4);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.carrito img{
+    width: 40px;
+}

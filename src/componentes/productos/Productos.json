@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Milanesa de carne",
+        "Precio": 500,
+        "unidades": 5,
+        "imagen": "https://www.johaprato.com/files/styles/flexslider_full/public/milanesa_de_carne.jpg?itok=-OSEYUFC"
+    },
+    {
+        "id": 2,
+        "Titulo": "Milanesa de pollo",
+        "Precio": 1000,
+        "unidades": 14,
+        "imagen": "https://calisa.com.ar/wp-content/uploads/2020/03/milanesas_supremas_de_pollo_plato.png"
+    },
+    {
+        "id": 3,
+        "Titulo": "Milanesa de Berenjena",
+        "Precio": 4000,
+        "unidades": 2,
+        "imagen": "https://www.recetasnestle.com.ar/sites/default/files/srh_recipes/d3bf498bbf36b70dc972378036b5ce48.jpg"
+        
+    },
+    {
+        "id": 4,
+        "Titulo": "Carne de Res",
+        "Precio": 2500,
+        "unidades": 20,
+        "imagen": "https://media.gq.com.mx/photos/620bcf7243f71a078a355280/16:9/w_2560%2Cc_limit/carnes-85650597.jpg"
+    },
+    {
+        "id": 5,
+        "Titulo": "Arroz",
+        "Precio": 3000,
+        "unidades": 8,
+        "imagen": "https://www.arrozsos.es/wp-content/uploads/2016/10/shutterstock_1937374939-1-1080x675.jpg"
+    },
+    {
+        "id": 6,
+        "Titulo": "Helado de Frutilla",
+        "Precio": 1400,
+        "unidades": 1,
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/BSZE7DPZERFUDMYBRU7D6LGNBY.jpg"
+    }]
